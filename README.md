@@ -1,3 +1,5 @@
 # devappio
 Init Dev App IO project
-Test commit
+```php
+echo 'hello world';
+```
